@@ -1,0 +1,19 @@
+# Data
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Models
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
